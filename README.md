@@ -1,10 +1,8 @@
-﻿# KabuHostels
+# Kabu Hostels
 
-My Google AI Studio App
+<img src="./assets/header.svg" width="100%" alt="Kabu Hostels" />
 
-## Stack
-
-react Â· express Â· vite Â· typescript Â· tailwindcss Â· node
+Student housing listings near campus. Browse, compare, contact.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· express Â· vite Â· typescript Â· tailwindcss Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
